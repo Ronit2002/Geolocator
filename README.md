@@ -1,5 +1,5 @@
 # Geolocator
-In this project I am using a the features of microsoft azure to create a virtual machine which will act as a honeypot and we will get attackers information by writting a script in PowerShell 
+In this project I am using a the features of microsoft azure to create a virtual machine which will act as a honeypot and we will get attackers information by writing a script in PowerShell 
 Connect the  log analytics to virtual machine
 
 First create a virtual machine using Microsoft azure and delete all the inbound rules and make a new inbound rule which allows the attackers to attack from all the ports and make its priority as 100. 
